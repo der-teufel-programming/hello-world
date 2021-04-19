@@ -11,6 +11,7 @@ class MainActivity : AppCompatActivity() {
 
         helloButton.setOnClickListener {
             textView.text = "Hi!"
+            helloButton.text = "ok bye :)"
         }
     }
 }
