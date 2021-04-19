@@ -1,0 +1,2 @@
+# dune init exe hello_world
+# OCAMLPARAM: unset
