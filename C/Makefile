@@ -1,7 +1,7 @@
 CC = tcc
 
 stdlib:
-	$(CC) HelloWorld_with_stdlib.c -o hello_world_std
+	$(CC) hello_world_stdlib.c -o hello_world_stdlib
 
 nostdlib:
-	$(CC) -nostdlib HelloWorld_no_stdlib.c -o hello_world_nostd
+	$(CC) -nostdlib hello_world_nostdlib.c -o hello_world_nostdlib
