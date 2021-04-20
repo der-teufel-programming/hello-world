@@ -8,6 +8,8 @@ import kotlin.system.exitProcess
 class MainActivity : AppCompatActivity() {
 
     var klikniecia = 0
+    
+    //zmiana żeby nie było że nie ma zmian
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
