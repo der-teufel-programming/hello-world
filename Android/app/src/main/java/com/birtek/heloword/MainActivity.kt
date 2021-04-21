@@ -10,6 +10,8 @@ class MainActivity : AppCompatActivity() {
     var klikniecia = 0
     
     //zmiana żeby nie było że nie ma zmian
+    //kolejna zmiana bo sprawdzam coś
+    //modyfikacja
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
